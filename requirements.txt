@@ -1,0 +1,11 @@
+fastapi==0.136.1
+uvicorn[standard]==0.47.0
+pydantic==2.12.5
+playwright==1.63.0
+langgraph==1.2.0
+langchain-groq
+python-dotenv==1.2.2
+beautifulsoup4==4.15.0
+urllib3==2.6.3
+certifi>=2026.2.25
+
